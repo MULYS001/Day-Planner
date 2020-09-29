@@ -3,7 +3,7 @@
 This is a simple calendar application that allows the user to save events for each hour of the day. 
 This app runs in the browser and features dynamically updated HTML and CSS powered by jQuery.
 
-# Working App: file:///C:/Users/I306897/Documents/UNI/Day-Planner/index.html
+# Working App: https://mulys001.github.io/Day-Planner/
 
 ## User Story
 
